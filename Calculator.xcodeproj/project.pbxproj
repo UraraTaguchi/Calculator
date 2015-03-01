@@ -13,6 +13,7 @@
 		E48B23141AA300F900A56A1E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E48B23131AA300F900A56A1E /* Images.xcassets */; };
 		E48B23171AA300F900A56A1E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E48B23151AA300F900A56A1E /* LaunchScreen.xib */; };
 		E48B23231AA300F900A56A1E /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48B23221AA300F900A56A1E /* CalculatorTests.swift */; };
+		E48B232D1AA333CF00A56A1E /* 194845_detailImage1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E48B232C1AA333CF00A56A1E /* 194845_detailImage1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E48B231C1AA300F900A56A1E /* CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48B23211AA300F900A56A1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E48B23221AA300F900A56A1E /* CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTests.swift; sourceTree = "<group>"; };
+		E48B232C1AA333CF00A56A1E /* 194845_detailImage1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 194845_detailImage1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		E48B23091AA300F900A56A1E /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				E48B232C1AA333CF00A56A1E /* 194845_detailImage1.jpg */,
 				E48B230C1AA300F900A56A1E /* AppDelegate.swift */,
 				E48B230E1AA300F900A56A1E /* ViewController.swift */,
 				E48B23101AA300F900A56A1E /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				E48B23121AA300F900A56A1E /* Main.storyboard in Resources */,
 				E48B23171AA300F900A56A1E /* LaunchScreen.xib in Resources */,
 				E48B23141AA300F900A56A1E /* Images.xcassets in Resources */,
+				E48B232D1AA333CF00A56A1E /* 194845_detailImage1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
